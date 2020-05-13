@@ -3,14 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 700 700" enable-background="new 0 0 700 700" xml:space="preserve">
-<radialGradient id="SVGID_1_" cx="350" cy="350" r="350" gradientUnits="userSpaceOnUse">
-	<stop  offset="0" style="stop-color:#666666"/>
-	<stop  offset="0.3089" style="stop-color:#3B3B3B"/>
-	<stop  offset="0.5923" style="stop-color:#1B1B1B"/>
-	<stop  offset="0.8295" style="stop-color:#070707"/>
-	<stop  offset="0.9915" style="stop-color:#000000"/>
-</radialGradient>
-<rect fill="url(#SVGID_1_)" width="700" height="700"/>
 <g>
 	<rect x="274" y="91" fill="#FDAB94" width="203" height="195"/>
 	<rect x="274" y="228" fill="#FDAB94" width="151" height="190.2"/>
