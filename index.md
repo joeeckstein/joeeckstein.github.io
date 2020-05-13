@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Joe is currently a Controls Technician at TAIT based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE.
 
 Joe graduated from California Polytechnic State University San Luis Obispo with a Bachelor of Science in Electrical Engineering in December of 2018 with a 3.199 GPA. He has a passion for automation and entertainment technology, and have worked for various groups operating and maintaining audio visual equipment for events such as club meetings, presentations, and concerts. As part of his Bachelor of Science in Electrical Engineering, he took courses in microcontrollers, optical and wireless communication systems, remote sensing, and control systems.
