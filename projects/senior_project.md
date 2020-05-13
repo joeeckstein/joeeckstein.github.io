@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Senior Project
+permalink: /projects/senior_project/
 ---
 
 # Senior Project: Inkjet Printed Transistor

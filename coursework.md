@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Coursework
+permalink: /coursework/
 ---
 
 # Coursework

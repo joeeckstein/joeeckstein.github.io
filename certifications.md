@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Certifications
+permalink: /certifications/
 ---
 
 # Certifications

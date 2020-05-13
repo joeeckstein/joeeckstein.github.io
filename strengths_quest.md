@@ -1,5 +1,7 @@
 ---
 layout: default
+title: StrentthsQuest
+permalink: /strengths_quest/
 ---
 
 # StrengthsQuest™
