@@ -1,6 +1,6 @@
 ---
 layout: default
-title: StrentthsQuest
+title: StrengthsQuest
 permalink: /strengths_quest/
 ---
 
