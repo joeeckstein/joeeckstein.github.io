@@ -4,11 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-  width:270px;
   height: 100%;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
   background-color: #111;
   overflow-x: hidden;
 }
@@ -42,11 +38,5 @@ body {
   font-weight:400;
 }
 .main {
-  margin-left: 160px;
-  height: auto;
-  clear: both;
-  width: 500px;
-  min-width: 360px;
-  margin: 0 50px 0 auto;
-  padding: 20px;
+  float: right
 }
