@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/joeeckstein
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jeckstei.com
+  * I am joeeckstein (https://keybase.io/joeeckstein) on keybase.
+  * I have a public key ASB1Hx2jhEI7BmvXKQscfCgoK81h1dNnlj980cwUWoNHBwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010116a43c7103812868daed7f81a3b3585489dd70503be19af61976b209407c5b540a",
+      "host": "keybase.io",
+      "kid": "0120751f1da384423b066bd7290b1c7c28282bcd61d5d367963f7cd1cc145a8347070a",
+      "uid": "f0302c52868135536224ea0dc0c31719",
+      "username": "joeeckstein"
+    },
+    "merkle_root": {
+      "ctime": 1520643010,
+      "hash": "68e064e6c1f4a1f38c7c10365850b285a1f97a3b137b946812d21ba0822be2e2283765694e211f643474e660368c7a8ae14936329bcd96fde49ecfc69a433184",
+      "hash_meta": "736b137713aa45cd05a8eb6e637849e25340f7d3858bccd6aa8296f472862c91",
+      "seqno": 2213515
+    },
+    "service": {
+      "hostname": "www.jeckstei.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520643053,
+  "expire_in": 504576000,
+  "prev": "628b5640f1463ca510672ebb0567f790ae7187bf4bd2f0b6248d97920a1b78cc",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdR8do4RCOwZr1ykLHHwoKCvNYdXTZ5Y/fNHMFFqDRwcKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTZhNDNjNzEwMzgxMjg2OGRhZWQ3ZjgxYTNiMzU4NTQ4OWRkNzA1MDNiZTE5YWY2MTk3NmIyMDk0MDdjNWI1NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzUxZjFkYTM4NDQyM2IwNjZiZDcyOTBiMWM3YzI4MjgyYmNkNjFkNWQzNjc5NjNmN2NkMWNjMTQ1YTgzNDcwNzBhIiwidWlkIjoiZjAzMDJjNTI4NjgxMzU1MzYyMjRlYTBkYzBjMzE3MTkiLCJ1c2VybmFtZSI6ImpvZWVja3N0ZWluIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwNjQzMDEwLCJoYXNoIjoiNjhlMDY0ZTZjMWY0YTFmMzhjN2MxMDM2NTg1MGIyODVhMWY5N2EzYjEzN2I5NDY4MTJkMjFiYTA4MjJiZTJlMjI4Mzc2NTY5NGUyMTFmNjQzNDc0ZTY2MDM2OGM3YThhZTE0OTM2MzI5YmNkOTZmZGU0OWVjZmM2OWE0MzMxODQiLCJoYXNoX21ldGEiOiI3MzZiMTM3NzEzYWE0NWNkMDVhOGViNmU2Mzc4NDllMjUzNDBmN2QzODU4YmNjZDZhYTgyOTZmNDcyODYyYzkxIiwic2Vxbm8iOjIyMTM1MTV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmplY2tzdGVpLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIwNjQzMDUzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjYyOGI1NjQwZjE0NjNjYTUxMDY3MmViYjA1NjdmNzkwYWU3MTg3YmY0YmQyZjBiNjI0OGQ5NzkyMGExYjc4Y2MiLCJzZXFubyI6MjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAMuozoUAOsub6zbX81NGMzGrvcW3CrnnK2xlDl8hc0302Lkps5QrMCmtW/TXIME6bpSTDhxHkwOMEtdFSDnijCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKZOs2VF0sL27D0yVxzTvVMQO2rB9Zzdc6AHGYZixRg8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeeckstein
+
+==================================================================
