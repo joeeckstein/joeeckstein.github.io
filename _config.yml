@@ -3,6 +3,7 @@ description: Entertainment Automation Professional
 logo: /assets/img/logo.svg
 google_analytics: 
 show_downloads: false
+show_sidenav: true
 theme: jekyll-theme-minimal
 
 gems:

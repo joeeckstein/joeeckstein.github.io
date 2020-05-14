@@ -20,18 +20,14 @@
             <img src="{{site.logo | relative_url}}" alt="Logo" class="logo"/>
           {% endif %}
           <h1><a href="{{ "/" | absolute_url }}" class="site_name">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
         </div>
-
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -40,6 +36,19 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+
+        {% if site.show_sidenav %}
+        <div class"sidenav">
+          <a href="/">Home</a>
+          <a href="/projects/">Projects</a>
+          <a href="/certifications/">Certifications</a>
+          <a href="/strengths_quest/">Strengths</a>
+          <a href="/courses/">Coursework</a>
+        </div>
+        {% endif %}
+
+
       </header>
       <section>
 
