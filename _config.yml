@@ -4,6 +4,7 @@ logo: /assets/img/logo.svg
 google_analytics: 
 show_downloads: false
 show_sidenav: true
+show_linkbar: true
 theme: jekyll-theme-minimal
 
 gems:
