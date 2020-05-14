@@ -31,6 +31,17 @@ header {
 .sidenav a:hover {
   color: #f1f1f1;
 }
+.linkbar a {
+  text-align: center;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  border-bottom: none;
+}
+.sidenav a:hover {
+  color: #f1f1f1;
+}
 html, body {
   height: 100%;
 }
