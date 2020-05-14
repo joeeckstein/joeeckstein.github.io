@@ -3,6 +3,21 @@
 
 @import "{{ site.theme }}";
 
+header {
+  width:160px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+  background-color: #111;
+  height: 100%;
+}
+
+.logo {
+  height: 160px;
+  width: 160px;
+}
+
+
 body {
   background-color: #fff;
   padding:50px;
@@ -11,7 +26,3 @@ body {
   font-weight:400;
 }
 
-.logo {
-  height: 160px;
-  width: 160px;
-}
