@@ -48,9 +48,14 @@ body {
   flex-direction: column;
   background: rgb(51, 51, 51);
   background: rgba(51, 51, 51, 0.5);
+  color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
 }
 .main {
-  float: right
+  float: right;
+  padding: 15px;
 }
 .main_content {
   flex: 1 0 auto;
