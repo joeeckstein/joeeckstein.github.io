@@ -9,10 +9,9 @@ Joe graduated from California Polytechnic State University San Luis Obispo with 
 During his undergraduate career at Cal Poly, he was an Audio Visual Technician II for Associated Students, Inc. specializing in project management, equipment maintenance, sound reinforcement, projection, and lighting for production events. Additionally, he was an Instructional Student Assistant for CPE 133 (Introduction to Digital Design) assisting students with designs in VHDL using the Vivado Design Suite for Basys3.
 
 
-<button type="button" class="collapsible"> Controls Technicians at TAIT </button>
-  <div class="content">
+## Controls Technicians at TAIT
     Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.
-Essential Responsibilities
+### Essential Responsibilities
 
 *   Comprises part of field engineering and installation team, ultimately implementing technology on site for the customer
 *   Fulfills shop testing and setup responsibilities, especially for complex elements Plays key technical role throughout project lifecycle
@@ -22,26 +21,6 @@ Essential Responsibilities
 *   Establishes and cultivates good relationships with clients, stagehands, electricians, ironworkers, project managers, and many other personnel
 *   Travels frequently to job sites domestically and internationally
 *   Works closely with the Service & Support department about post-project work 
-  </div>
-
 
 
 [Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
-
-<!-- Collapsable Areas Script -->
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    }
-  });
-}
-</script>
