@@ -12,7 +12,7 @@ Designed and built an Arduino based system to regulate the temperature of a room
 # Inkjet Printed Transistor
 
 Worked under Dr. Tina Smilkstein with Nick Kaperilian and Neil Lamon to research the possibility of utilizing a Fujifilm Dimatix inkjet materials printer to produce an inkjet printed transistor. We ran into production issues that prevented the creation of functional transistors.  
-[Read More...](./projects/senior_project.html)
+[Read More...](/projects/senior_project)
 
 # Keysight ADS (Advanced Design Suite) Low-Pass Filter Design
 
