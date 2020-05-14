@@ -28,4 +28,20 @@ Essential Responsibilities
 
 [Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
 
-<script src="{{ "/assets/js/collapsible.js" | relative_url}}"></script>
+<!-- Collapsable Areas Script -->
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
