@@ -8,9 +8,10 @@ Joe graduated from California Polytechnic State University San Luis Obispo with 
 
 During his undergraduate career at Cal Poly, he was an Audio Visual Technician II for Associated Students, Inc. specializing in project management, equipment maintenance, sound reinforcement, projection, and lighting for production events. Additionally, he was an Instructional Student Assistant for CPE 133 (Introduction to Digital Design) assisting students with designs in VHDL using the Vivado Design Suite for Basys3.
 
-#### Controls Technicians at TAIT
 
-Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.
+<button type="button" class="collapsible"> Controls Technicians at TAIT </button>
+  <div class="collapsible_content">
+    Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.
 Essential Responsibilities
 
 *   Comprises part of field engineering and installation team, ultimately implementing technology on site for the customer
@@ -21,6 +22,8 @@ Essential Responsibilities
 *   Establishes and cultivates good relationships with clients, stagehands, electricians, ironworkers, project managers, and many other personnel
 *   Travels frequently to job sites domestically and internationally
 *   Works closely with the Service & Support department about post-project work 
+  </div>
+
 
 
 [Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
