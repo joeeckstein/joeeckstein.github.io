@@ -27,3 +27,5 @@ Essential Responsibilities
 
 
 [Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
+
+<script src="{{ "/assets/js/collapsible.js" | relative_url}}"></script>

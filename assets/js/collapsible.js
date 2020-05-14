@@ -4,11 +4,11 @@ var i;
 for (i = 0; i < coll.length; i++) {
   coll[i].addEventListener("click", function() {
     this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
+    var collapsible_content = this.nextElementSibling;
+    if (collapsible_content.style.maxHeight){
+      collapsible_content.style.maxHeight = null;
     } else {
-      content.style.maxHeight = content.scrollHeight + "px";
+      collapsible_content.style.maxHeight = collapsible_content.scrollHeight + "px";
     }
   });
 }
