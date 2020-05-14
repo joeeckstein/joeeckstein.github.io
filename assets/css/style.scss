@@ -4,20 +4,25 @@
 @import "{{ site.theme }}";
 
 header {
-  width:160px;
+  width:270px;
+  height: 100%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   background-color: #111;
-  height: 100%;
+  overflow-x: hidden;
 }
-
+.logo_box {
+  text-align: center;
+  padding-bottom:20px;
+}
 .logo {
   height: 160px;
   width: 160px;
 }
-
-
+.site_name h1 {
+  color: #fff;
+}
 body {
   background-color: #fff;
   padding:50px;
