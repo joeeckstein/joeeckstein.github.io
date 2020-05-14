@@ -10,7 +10,9 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
 
 
 ## Controls Technicians at TAIT
+
     Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.
+    
 ### Essential Responsibilities
 
 *   Comprises part of field engineering and installation team, ultimately implementing technology on site for the customer
