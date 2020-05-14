@@ -42,7 +42,10 @@ body {
   font-weight:400;
 }
 .main {
-  margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
-  padding: 0px 10px;
+  height: auto;
+  clear: both;
+  width: 75%;
+  min-width: 360px;
+  margin: 0 50px 0 auto;
+  padding: 20px;
 }
