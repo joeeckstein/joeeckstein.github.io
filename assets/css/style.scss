@@ -46,6 +46,8 @@ body {
 .wrapper {
   display: flex;
   flex-direction: column;
+  background: rgb(51, 51, 51);
+  background: rgba(51, 51, 51, 0.5);
 }
 .main {
   float: right
@@ -58,43 +60,3 @@ footer {
   padding-left: 10px;
   flex-shrink: 0;
 }
-/* Collapse */
- /* Style the button that is used to open and close the collapsible content */
-.collapsible {
-  background-color: #eee;
-  font-size: 15px;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-}
-
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
-
-.collapsible:after {
-  content: '\02795'; /* Unicode character for "plus" sign (+) */
-  font-size: 13px;
-  color: white;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2796"; /* Unicode character for "minus" sign (-) */
-}
-
-/* Style the collapsible content. Note: hidden by default */
-.content {
-  padding: 0 18px;
-  background-color: Dimgrey;
-  background: rgba(69, 69, 69, 0.5);
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.5s ease-out;
-} 
