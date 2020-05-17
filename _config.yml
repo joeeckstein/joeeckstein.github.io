@@ -10,4 +10,6 @@ url: "https://www.jeckstei.com"
 
 gems:
   - jekyll-mentions
+
+plugins:
   - jekyll-sitemap
