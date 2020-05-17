@@ -9,3 +9,6 @@ theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
+
+plugins:
+  - jekyll-sitemap
