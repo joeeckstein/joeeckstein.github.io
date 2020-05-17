@@ -6,6 +6,7 @@ show_downloads: false
 show_sidenav: true
 show_linkbar: true
 theme: jekyll-theme-minimal
+url: "https://www.jeckstei.com"
 
 gems:
   - jekyll-mentions
