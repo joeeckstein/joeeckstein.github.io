@@ -3,6 +3,7 @@ layout: default
 title: StrengthsQuest
 permalink: /strengths_quest/
 redirect_from: "/strengths_quest"
+last_modified_at: 2020-05-13
 ---
 
 # StrengthsQuest™

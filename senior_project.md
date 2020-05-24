@@ -4,6 +4,7 @@ title: Senior Project
 permalink: /projects/senior_project/
 redirect_from: "/projects/senior_project"
 redirect_from: "/projects/senior_project/senior_project"
+last_modified_at: 2020-05-13
 ---
 
 # Senior Project: Inkjet Printed Transistor

@@ -3,6 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 redirect_from: "/projects"
+last_modified_at: 2020-05-13
 ---
 
 # Window Fan Controller
