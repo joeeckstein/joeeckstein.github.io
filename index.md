@@ -2,6 +2,7 @@
 layout: default
 redirect_from: "/Homepage/"
 redirect_from: "/Homepage"
+last_modified_at: 2020-05-13
 ---
 
 Joe is currently a Controls Technician at TAIT based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE.
