@@ -11,3 +11,4 @@ url: "https://www.jeckstei.com"
 gems:
   - jekyll-mentions
   - jekyll-sitemap
+  - jekyll-redirect-from

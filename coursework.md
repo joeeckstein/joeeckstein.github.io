@@ -2,6 +2,7 @@
 layout: default
 title: Coursework
 permalink: /coursework/
+redirect_from: "/courses"
 ---
 
 # Coursework
