@@ -2,6 +2,7 @@
 layout: default
 title: Certifications
 permalink: /certifications/
+redirect_from: "/certifications"
 ---
 
 # Certifications

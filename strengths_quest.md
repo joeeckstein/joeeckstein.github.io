@@ -2,6 +2,7 @@
 layout: default
 title: StrengthsQuest
 permalink: /strengths_quest/
+redirect_from: "/strengths_quest"
 ---
 
 # StrengthsQuest™

@@ -2,6 +2,8 @@
 layout: default
 title: Senior Project
 permalink: /projects/senior_project/
+redirect_from: "/projects/senior_project"
+redirect_from: "/projects/senior_project/senior_project"
 ---
 
 # Senior Project: Inkjet Printed Transistor
