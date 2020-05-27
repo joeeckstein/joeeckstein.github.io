@@ -47,4 +47,4 @@ The IME 156 Introduction to Electronics Manufacturing course consists of a lectu
 
 As part of the Senior Poetry Unit I created a creative reading of a poem of my choice. This video is contains video, still images, and time lapses. The majority of the content was captured with a Canon T3i.
 
-<iframe src="https://www.youtube.com/embed/B-JRbodfefw?rel=0" allowfullscreen="" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/B-JRbodfefw?rel=0" allowfullscreen="" width="480" height="270"></iframe>
