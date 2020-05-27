@@ -92,7 +92,7 @@
     <script>
       $(function(){
         $(window).resize(function(){
-            $.backstretch("{{ "/assets/img/background.jpg" | relative_url}}", {transitionDuration: 150ms});
+            $.backstretch("{{ "/assets/img/background.jpg" | relative_url}}", {speed: 150});
         })
         .resize();//trigger resize on page load
       });
