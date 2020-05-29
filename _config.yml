@@ -7,8 +7,18 @@ show_sidenav: true
 show_linkbar: true
 theme: jekyll-theme-minimal
 url: "https://www.jeckstei.com"
+author: Joe Eckstein
+paginate: 5
+paginate_path: "/blog/page:num/"
 
-gems:
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title
+
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-paginate
+
