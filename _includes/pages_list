@@ -1,0 +1,17 @@
+{% if page.url == "/" %}
+  <a href="/" style="font-weight: bold; color: #f1f1f1;">Home</a>
+{% else %}
+  <a href="/">Home</a>
+{% endif %}
+{% for node in pages_list %}
+  {% if group == null or group == node.group %}
+    {% if page.url == node.url %}
+      <a href="{{node.url}}" style="font-weight: bold; color: #f1f1f1;">{{node.title}}</a>
+    {% else %}
+      <a href="{{node.url}}">{{node.title}}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+      <a href="/assets/doc/Joe_Eckstein_Resume.pdf">Resume</a>

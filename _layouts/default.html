@@ -46,12 +46,9 @@
 
         {% if site.show_sidenav %}
         <div class="sidenav">
-          <a href="/">Home</a>
-          <a href="/projects/">Projects</a>
-          <a href="/assets/doc/Joe_Eckstein_Resume.pdf">Resume</a>
-          <a href="/certifications/">Certifications</a>
-          <a href="/strengths_quest/">Strengths</a>
-          <a href="/coursework/">Coursework</a>
+          {% assign pages_list = site.pages %}
+          {% assign group = 'navigation' %}
+          {% include pages_list %}
         </div>
         {% endif %}
 
