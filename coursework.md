@@ -123,5 +123,3 @@ Cal Poly GPA: 3.180 ⋅ Higher Education GPA: 3.199 ⋅ Major GPA: 3.217
 *   ENGL 134 – Writing and Rhetoric
 *   IME 156 – Basic Electronics Manufacturing
 *   MATH 142 – Calculus II
-
-[back](./)
