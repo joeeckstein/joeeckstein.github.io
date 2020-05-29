@@ -7,8 +7,11 @@ show_sidenav: true
 show_linkbar: true
 theme: jekyll-theme-minimal
 url: "https://www.jeckstei.com"
+author: Joe Eckstein
+  
 
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-redirect-from
+
