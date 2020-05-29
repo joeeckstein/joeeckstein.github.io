@@ -12,5 +12,3 @@ last_modified_at: 2020-05-13
 *   Ham Radio License (KK6QCB)
 *   Elevated Work Platform Certification
 *   American Ladder Institute - Stepladder Safety
-
-[back](./)

@@ -26,5 +26,3 @@ People especially talented in the Intellection theme are characterized by their 
 
 ## Relator
 People especially talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal.
-
-[back](./)
