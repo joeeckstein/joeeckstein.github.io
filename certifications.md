@@ -4,6 +4,7 @@ title: Certifications
 permalink: /certifications/
 redirect_from: "/certifications"
 last_modified_at: 2020-05-13
+group: "navigation"
 ---
 
 # Certifications
