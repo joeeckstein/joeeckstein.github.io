@@ -21,25 +21,25 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
     <p>Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.</p>
     <h3> Essential Responsibilities </h3>
     
-         Comprises part of field engineering and installation team, ultimately implementing technology on site for the customer
+        <p>- Comprises part of field engineering and installation team, ultimately implementing technology on site for the customer<br>
          
-         Fulfills shop testing and setup responsibilities, especially for complex elements
-		 
-         Plays key technical role throughout project lifecycle
-      
-         Communicates frequently with rest of project team about tasks and risks
+        - Fulfills shop testing and setup responsibilities, especially for complex elements<br>
+        
+        - Plays key technical role throughout project lifecycle<br>
+        
+        - Communicates frequently with rest of project team about tasks and risks<br>
          
-         Maintains a basic understanding of all integration-related technical fields
+        - Maintains a basic understanding of all integration-related technical fields<br>
          
-         Develops an expert knowledge of one or more integration-related technical fields
+        - Develops an expert knowledge of one or more integration-related technical fields<br>
          
-         Establishes and cultivates good relationships with clients, stagehands, electricians, ironworkers, project managers, and many other personnel
+        - Establishes and cultivates good relationships with clients, stagehands, electricians, ironworkers, project managers, and many other personnel<br>
          
-         Travels frequently to job sites domestically and internationally
+        - Travels frequently to job sites domestically and internationally<br>
          
-         Works closely with the Service & Support department about post-project work
+        - Works closely with the Service & Support department about post-project work<br>
          
-        Promotes and contributes to internal standards and processes
+        - Promotes and contributes to internal standards and processes</p>
      
 
     
@@ -47,7 +47,7 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
   
 </div>
 
-
+<p></p>
 
 [Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
 
