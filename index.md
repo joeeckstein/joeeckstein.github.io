@@ -3,6 +3,7 @@ layout: default
 redirect_from: "/Homepage/"
 redirect_from: "/Homepage"
 last_modified_at: 2020-05-13
+collapse: true
 ---
 
 Joe is currently a Controls Technician at TAIT based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE.
@@ -12,10 +13,22 @@ Joe graduated from California Polytechnic State University San Luis Obispo with 
 During his undergraduate career at Cal Poly, he was an Audio Visual Technician II for Associated Students, Inc. specializing in project management, equipment maintenance, sound reinforcement, projection, and lighting for production events. Additionally, he was an Instructional Student Assistant for CPE 133 (Introduction to Digital Design) assisting students with designs in VHDL using the Vivado Design Suite for Basys3.
 
 
-## Controls Technicians at TAIT
+<div>
 
-Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.
-    
+  <button type="button" class="collapsible">More About My Role at TAIT</button>
+  
+  <div class="content">
+    <p>Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.</p>
+    <h1> Essential Responsibilities </h1>
+  </div>
+  
+</div>
+
+
+
+[Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
+
+
 ### Essential Responsibilities
 
 *   Comprises part of field engineering and installation team, ultimately implementing technology on site for the customer
@@ -26,6 +39,3 @@ Controls Technicians are tasked with making multiple elements work together as o
 *   Establishes and cultivates good relationships with clients, stagehands, electricians, ironworkers, project managers, and many other personnel
 *   Travels frequently to job sites domestically and internationally
 *   Works closely with the Service & Support department about post-project work 
-
-
-[Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
