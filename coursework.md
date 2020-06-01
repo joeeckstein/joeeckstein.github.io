@@ -2,7 +2,7 @@
 layout: default
 title: Coursework
 permalink: /coursework/
-redirect_from: "/courses"
+redirect_from: "/courses/"
 last_modified_at: 2020-05-13
 group: "navigation"
 ---
