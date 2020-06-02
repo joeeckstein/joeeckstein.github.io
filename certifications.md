@@ -13,3 +13,4 @@ group: "navigation"
 *   Ham Radio License (KK6QCB)
 *   Elevated Work Platform Certification
 *   American Ladder Institute - Stepladder Safety
+*   OSHA 30 Hour Construction Safety and Health
