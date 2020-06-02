@@ -17,4 +17,4 @@ Wearable sensors currently use off-the-shelf integrated circuits for signal ampl
 
 [Download Full Report](./assets/doc/projects/Joseph_Eckstein_Senior_Project_Report.pdf)
 
-© Joseph Eckstein 2018
+© Joseph Eckstein and Nick Kaperilian 2018
