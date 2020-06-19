@@ -7,7 +7,7 @@ last_modified_at: 2020-06-19
 group: "navigation"
 ---
 
------BEGIN PGP PUBLIC KEY BLOCK-----
+`-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQENBFLFIKABCADJteuEXCCu8urlS41rhe6oODbkzXyyg+PwJjiTvVcz79qWOAqp
 rDlUgQ5pYrcnOqOyqWJ1J32em5UgDhtbcqGIzeCEWNkE+cPVnT59hVOfEYrxdsHv
@@ -52,4 +52,4 @@ pM/u5/IIctWfZT06ZSV4zRoujbGD1a3en9UNvNKPltKoW6dlI5MGgbspOtGVbxpb
 LTtvTfmZaNe6WRACKynie26geSxxI43nFRtP0Vj+4zrL6bIsIYxwr83EAyxoqg1h
 ANqYePVln7laQ2R3BEGFhbrI+ccjkpmkBaSPehfnZUyNkOCn
 =1Loc
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----`
