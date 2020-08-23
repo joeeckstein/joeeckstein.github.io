@@ -4,7 +4,6 @@ title: Contact
 permalink: /contact/
 last_modified_at: 2020-08-23
 captcha: true
-group: "navigation"
 ---
 
 # Contact Me
@@ -35,4 +34,5 @@ group: "navigation"
   <br>
   
   <button type="submit" class="button">Send</button>
+</div>
 </div>
