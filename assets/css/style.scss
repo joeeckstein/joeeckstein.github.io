@@ -143,6 +143,16 @@ input:required {
   border: none;
 }
 
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
 .button {
   background-color: #4CAF50;
   border: none;
