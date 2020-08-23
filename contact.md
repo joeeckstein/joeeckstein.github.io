@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: Contact Me
 permalink: /contact/
 last_modified_at: 2020-08-23
 captcha: true
@@ -35,5 +35,3 @@ group: "navigation"
   <br>
   
   <button type="submit" class="button">Send</button>
-</div>
-</div>
