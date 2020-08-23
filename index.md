@@ -70,7 +70,7 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
     <textarea name="message"></textarea>
   </label>
   
-  <div class="g-recaptcha" data-sitekey="your_site_key"></div>
+  <div class="g-recaptcha" data-sitekey="6LeyS8IZAAAAABnd7ksIs-PlxzuPmpZzjYN99BpL"></div>
   
   <input type="hidden" name="_subject" value="jeckstei.com Contact Form Submission" />
 
