@@ -74,7 +74,7 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
   <input type="hidden" name="_next" value="https://www.jeckstei.com/" />
   <input type="hidden" name="_subject" value="jeckstei.com Contact Form Submission" />
   <br>
-  <button type="submit" value="Submit">Send</button>
+  <button type="submit">Send</button>
   <br>
 </form>
      
