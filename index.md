@@ -2,7 +2,7 @@
 layout: default
 redirect_from: "/Homepage/"
 redirect_from: "/Homepage"
-last_modified_at: 2020-06-02
+last_modified_at: 2020-08-23
 collapse: true
 captcha: true
 ---
@@ -71,7 +71,7 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
   </label>
   <br> <br>
   <div class="g-recaptcha" data-sitekey="6LeyS8IZAAAAABnd7ksIs-PlxzuPmpZzjYN99BpL"></div>
-  <input type="hidden" name="_next" value="https://www.jeckstei.com/" />
+  <input type="hidden" name="_next" value="thanks.html" />
   <input type="hidden" name="_subject" value="jeckstei.com Contact Form Submission" />
   
   <br>

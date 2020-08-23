@@ -1,5 +1,11 @@
 Sitemap: https://www.jeckstei.com/sitemap.xml
 
+User-agent: *
+Disallow: /thanks/
+Disallow: /thanks.html
+
 User-agent: Googlebot-Image
 Disallow: /assets/img/
 Allow: /assets/img/favicon.ico
+Disallow: /thanks/
+Disallow: /thanks.html
