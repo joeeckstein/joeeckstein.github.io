@@ -53,25 +53,24 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
   <button type="button" class="collapsible">Contact Me</button>
   
 <div class="content">
-    <form
-  action="https://formspree.io/mjvadjkq"
-  method="POST"
->
+    <form action="https://formspree.io/mjvadjkq" method="POST">
   <label>
     Your name:
     <input type="text" name="Name">
   </label>
+  <br>
   <label>
     Your email:
     <input type="text" name="_replyto">
   </label>
+  <br>
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea {width:100%;} name="message" ></textarea>
   </label>
-  
+  <br>
   <div class="g-recaptcha" data-sitekey="6LeyS8IZAAAAABnd7ksIs-PlxzuPmpZzjYN99BpL"></div>
-  
+  <input type="hidden" name="_next" value="https://www.jeckstei.com/" />
   <input type="hidden" name="_subject" value="jeckstei.com Contact Form Submission" />
 
   <button type="submit">Send</button>
