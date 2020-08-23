@@ -9,6 +9,7 @@ captcha: true
 # Contact Me
 
 <div>
+<div class="content">
     <form action="https://formspree.io/mjvadjkq" method="POST">
   <br>
   <label>
@@ -33,4 +34,5 @@ captcha: true
   <br>
   
   <button type="submit" class="button">Send</button>
+</div>
 </div>
