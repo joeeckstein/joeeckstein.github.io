@@ -20,6 +20,9 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
   
 <div class="content">
     <p>Controls Technicians are tasked with making multiple elements work together as one cohesive system. While it is a a key technical role, it exists on the uniquely TAIT line between technology and art, helping to create the best shows and spectacles in the world.</p>
+    
+    <p>TAIT is the World Market Leader in designing, constructing and delivering the finest live event equipment in the world. Whether it’s creating awe-inspiring spectaculars, complex touring stages, theatre engineering solutions, brand activations or cruise ship installations, TAIT pledges to deliver world-class solutions for live experiences. With its proprietary entertainment automation platform, custom-made products, and creative engineering, TAIT’s cutting-edge offerings continue to advance industry standards and exceed client expectations. As a global network of over 600 employees in 12 office locations, TAIT has worked on projects on all 7 continents and even outer space. TAIT’s diverse group of clients include Taylor Swift, Cirque Du Soleil, The Metropolitan Opera House, NASA, National Geographic, Beyoncé, and The Olympics.</p>
+    
     <h3> Essential Responsibilities </h3>
     
         <p>- Comprises part of field engineering and installation team, ultimately implementing technology on site for the customer.<br>
