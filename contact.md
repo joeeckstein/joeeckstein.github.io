@@ -4,12 +4,13 @@ title: Contact
 permalink: /contact/
 last_modified_at: 2020-08-23
 captcha: true
+group: "navigation"
 ---
 
 # Contact Me
 
 <div>
-<div class="content">
+<div>
     <form action="https://formspree.io/mjvadjkq" method="POST">
   <br>
   <label>
