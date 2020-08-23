@@ -66,7 +66,7 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
   <br>
   <label>
     Your message:
-    <textarea {width:100%;} name="message" ></textarea>
+    <textarea rows="4" cols="50" name="message" ></textarea>
   </label>
   <br>
   <div class="g-recaptcha" data-sitekey="6LeyS8IZAAAAABnd7ksIs-PlxzuPmpZzjYN99BpL"></div>
