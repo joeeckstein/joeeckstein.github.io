@@ -4,6 +4,7 @@ redirect_from: "/Homepage/"
 redirect_from: "/Homepage"
 last_modified_at: 2020-06-02
 collapse: true
+captcha: true
 ---
 
 Joe is currently a Controls Technician at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE.
@@ -40,6 +41,41 @@ During his undergraduate career at Cal Poly, he was an Audio Visual Technician I
         - Works closely with the Service & Support department about post-project work.<br>
          
         - Promotes and contributes to internal standards and processes.</p>
+     
+
+    
+</div>
+  
+</div>
+
+<div>
+
+  <button type="button" class="collapsible">Contact Me</button>
+  
+<div class="content">
+    <form
+  action="https://formspree.io/mjvadjkq"
+  method="POST"
+>
+  <label>
+    Your name:
+    <input type="text" name="Name">
+  </label>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  
+  <div class="g-recaptcha" data-sitekey="your_site_key"></div>
+  
+  <input type="hidden" name="_subject" value="jeckstei.com Contact Form Submission" />
+
+  <button type="submit">Send</button>
+</form>
      
 
     
