@@ -9,6 +9,17 @@ group: "navigation"
 
 # Projects
 
+## Celebrity Apex - Occulus Theater LED Wall
+
+I was a member of the TAIT Integration team working on the Celebrity Apex LED Wall.
+
+> With a perfect view from any seat, The Theatre introduces all-new production shows and programming exclusive to Celebrity Apex and brought to life through state-of-the-art technology designed, engineered, and built by Tait. A new 20-foot-tall 4K LED screen comprised of 17 million pixels curves 110 feet around the stage to immerse you like never before. A translucent, 360-degree circular scrim features eight 21K laser projectors for breathtaking wrap-around imagery and effects. And setting the stage for one of the most dynamic new productions at sea, there’s a two-ton, 18-foot-tall Tree of Life that boasts 3,300 LED leaves. It all adds up to our most technologically advanced theater yet—the perfect home for the groundbreaking new productions you’ll experience here.
+
+[Learn More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
+
+<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0" allowfullscreen="" width="480" height="270"></iframe>
+<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0" allowfullscreen="" width="480" height="270"></iframe>
+
 ## Celine Dion - Courage World Tour
 
 I was a member of the TAIT Integration team working on Celine Dion's Courage World Tour.
