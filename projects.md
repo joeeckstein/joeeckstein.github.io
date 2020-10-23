@@ -31,6 +31,8 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 
 [Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-modular-lift-system/)
 
+<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0" allowfullscreen="" width="480" height="270"></iframe>
+
 ## Window Fan Controller
 
 Designed and built an Arduino based system to regulate the temperature of a room using a windows fan by comparing the indoor, outdoor, and desired temperatures.  
