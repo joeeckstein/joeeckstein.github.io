@@ -17,9 +17,9 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 
 [Learn More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
 
-<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0" allowfullscreen="" width="480" height="270"></iframe>
+<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1" width="480" height="270"></iframe>
 
-<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0" allowfullscreen="" width="480" height="270"></iframe>
+<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1" width="480" height="270"></iframe>
 
 
 ## Celine Dion - Courage World Tour
@@ -31,7 +31,7 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 
 [Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-modular-lift-system/)
 
-<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0" allowfullscreen="" width="480" height="270"></iframe>
+<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1" width="480" height="270"></iframe>
 
 ## Window Fan Controller
 
@@ -74,4 +74,4 @@ The IME 156 Introduction to Electronics Manufacturing course consists of a lectu
 
 As part of the Senior Poetry Unit I created a creative reading of a poem of my choice. This video is contains video, still images, and time lapses. The majority of the content was captured with a Canon T3i.
 
-<iframe src="https://www.youtube.com/embed/B-JRbodfefw?rel=0" allowfullscreen="" width="480" height="270"></iframe>
+<iframe src="https://www.youtube.com/embed/B-JRbodfefw?rel=0&modestbranding=1&fs=0" width="480" height="270"></iframe>
