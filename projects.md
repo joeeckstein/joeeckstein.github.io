@@ -9,7 +9,7 @@ group: "navigation"
 
 # Projects
 
-## Celebrity Apex - Occulus Theater LED Wall
+## Celebrity Apex - Oculus Theater LED Wall
 
 I was a member of the TAIT Integration team working on the Celebrity Apex LED Wall.
 
