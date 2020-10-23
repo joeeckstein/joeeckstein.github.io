@@ -10,15 +10,11 @@ url: "https://www.jeckstei.com"
 author: Joe Eckstein
 paginate: 5
 paginate_path: "/blog/page:num/"
-paginate_path: "/projects/page:num/"
 
 collections:
   posts:
     output: true
     permalink: /blog/:year/:month/:day/:title
-  projects:
-    output: true
-    permalink: /projects/:year/:month/:day/:title
 
 plugins:
   - jekyll-mentions
