@@ -17,9 +17,9 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 
 [Learn More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
 
-<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1" width="480" height="270"></iframe>  
+<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" width="480" height="270"></iframe>  
 
-<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1" width="480" height="270"></iframe>  
+<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1&fs=1" width="480" height="270"></iframe>  
 
 
 ## Celine Dion - Courage World Tour
@@ -31,7 +31,7 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 
 [Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-modular-lift-system/)
 
-<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1" width="480" height="270"></iframe>  
+<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" width="480" height="270"></iframe>  
 
 ## Window Fan Controller
 
