@@ -4,7 +4,7 @@ redirect_from: "/Homepage/"
 redirect_from: "/Homepage"
 last_modified_at: 2020-10-22
 collapse: true
-captcha: true
+captcha: false
 ---
 
 Joe is currently a Controls Technician at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE. I have contributed to projects such as [Celine Dion's Courage World Tour](https://www.jeckstei.com/projects/#celine-dion---courage-world-tour) and the [Celebrity Apex Oculus Theater LED Wall](https://www.jeckstei.com/projects/#celebrity-apex---oculus-theater-led-wall).
