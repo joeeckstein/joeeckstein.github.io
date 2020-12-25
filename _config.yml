@@ -2,6 +2,7 @@ title: Joe Eckstein
 description: Entertainment Automation Professional
 logo: /assets/img/logo.svg
 google_analytics: UA-71710819-1
+cloudflare_analytics: true
 show_downloads: false
 show_sidenav: true
 show_linkbar: true
