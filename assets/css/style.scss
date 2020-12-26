@@ -1,7 +1,11 @@
 ---
 ---
 
+$fa-font-path:        "../webfonts";
+
 @import "{{ site.theme }}";
+@import "./assets/fontawesome/scss/fontawesome.scss";
+@import "./assets/fontawesome/scss/brands.scss";
 
 header {
   background-color: #111;
@@ -46,6 +50,8 @@ html, body {
 }
 body {
   background-color: #000;
+  background-image: linear-gradient(to bottom right, grey, black);
+  background-attachment: fixed;
   padding:50px;
   font: 16px/1.5 'Roboto Condensed', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#404040;
