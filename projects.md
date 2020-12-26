@@ -20,10 +20,12 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 
 [Read More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
 
-<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
-
-<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
-
+<div class="vidcontainer">
+<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
+</div>
+<div class="vidcontainer">
+<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
+</div>
 
 
 
@@ -35,9 +37,9 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 > TAIT Mod Lifts are modular, high capacity lifts that are easy to use and almost infinitely configurable. Each Mod Lift is a 42 in. square and can lift a payload capacity of 2,000 lbs. at 1 ft. per second. They are engineered at that capacity with a 10:1 safety factor to ensure the safety of performers and reduces the risk of failure to nearly impossible.
 
 [Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-modular-lift-system/)
-
-<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
-
+<div class="vidcontainer">
+<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
+</div>
 
 
 
