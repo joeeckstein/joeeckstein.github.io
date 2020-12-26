@@ -86,7 +86,7 @@
     <script>
       $(function(){
         $(window).resize(function(){
-            $.backstretch("{{ "/assets/img/background.webp" | relative_url}}");
+            $.backstretch("{{ "/assets/img/background.webp" | relative_url}}", { fade: 750});
         })
         .resize();//trigger resize on page load
       });
