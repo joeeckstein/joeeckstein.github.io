@@ -2,14 +2,15 @@
 layout: default
 redirect_from: "/Homepage/"
 redirect_from: "/Homepage"
-last_modified_at: 2020-10-22
+last_modified_at: 2020-12-26
 collapse: true
 captcha: false
 ---
 
-Joe is currently a Controls Technician at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE. I have contributed to projects such as [Celine Dion's Courage World Tour](https://www.jeckstei.com/projects/#celine-dion---courage-world-tour) and the [Celebrity Apex Oculus Theater LED Wall](https://www.jeckstei.com/projects/#celebrity-apex---oculus-theater-led-wall).
+Joe is currently a Controls Technician at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE. I have contributed to projects such as [Celine Dion's Courage World Tour](https://www.jeckstei.com/projects/#celine-dion---courage-world-tour) and the [Celebrity Apex Oculus Theater LED Wall](https://www.jeckstei.com/projects/
+#celebrity-cruises---apex---oculus-theater-led-wall).
 
-Joe graduated from [California Polytechnic State University San Luis Obispo](https://www.calpoly.edu/) with a Bachelor of Science in Electrical Engineering in December of 2018 with a 3.199 GPA. He has a passion for automation and entertainment technology, and worked for various groups operating and maintaining audio visual equipment for events such as club meetings, presentations, and concerts throughout his education. As part of his Bachelor of Science in Electrical Engineering, he took courses in microcontrollers, optical and wireless communication systems, remote sensing, and control systems.
+Joe graduated from [California Polytechnic State University San Luis Obispo](https://www.calpoly.edu/) with a Bachelor of Science in Electrical Engineering in December of 2018 with a 3.22 Major GPA. He has a passion for automation and entertainment technology, and worked for various groups operating and maintaining audio visual equipment for events such as club meetings, presentations, and concerts throughout his education. As part of his Bachelor of Science in Electrical Engineering, he took courses in microcontrollers, optical and wireless communication systems, remote sensing, and control systems.
 
 During his undergraduate career at Cal Poly, he was an Audio Visual Technician II for [Associated Students, Inc.](https://www.asi.calpoly.edu/) specializing in project management, equipment maintenance, sound reinforcement, projection, and lighting for production events. Additionally, he was an Instructional Student Assistant for CPE 133 (Introduction to Digital Design) assisting students with designs in VHDL using the Vivado Design Suite for Basys3.
 

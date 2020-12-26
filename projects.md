@@ -9,7 +9,7 @@ group: "navigation"
 
 # Projects
 
-## Celebrity Cruises -  Apex - Oculus Theater LED Wall
+## Celebrity Cruises - Apex - Oculus Theater LED Wall
 
 I was a member of the TAIT Integration team working on the Celebrity Apex LED Wall installation and commissioning. I focused on the anti-collision and safety function development on the Siemens S7-1500 safety PLC to protect both cast members and the machinery.
 
@@ -20,6 +20,8 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 <iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
 
 <iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
+
+
 
 
 ## Celine Dion - Courage World Tour
@@ -34,46 +36,48 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 <iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
 
 
+
+
 ## Princess Cruises - Sea Princess - Princess Theater Controls Upgrade
 
 I was a member of the TAIT integration team upgrading the existing automation control equipment to TAIT Navigator control and Siemens S120 series drives. This upgrade was performed during a voyage with significant coordination with the ship's entertainment staff to allow the theater to continue to operate during the upgrade.
 
 ## Window Fan Controller
 
-Designed and built an Arduino based system to regulate the temperature of a room using a windows fan by comparing the indoor, outdoor, and desired temperatures.  
+Designed and built an Arduino based system to regulate the temperature of a room using a windows fan by comparing the indoor, outdoor, and desired temperatures.  The system would determine if it would be favorable to run the window fan, or if it would just push hot air inside. It also had built in over cycling detection to prevent small fluctuations in temperature from causing the system to rapidly turn the fan off and on.
 [Read More...](https://github.com/joeeckstein/Thermostat)  
 
 ## Inkjet Printed Transistor
 
-Worked under Dr. Tina Smilkstein with Nick Kaperilian and Neil Lamon to research the possibility of utilizing a Fujifilm Dimatix inkjet materials printer to produce an inkjet printed transistor. We ran into production issues that prevented the creation of functional transistors.  
-[Read More...](/projects/senior_project)
+Worked under Dr. Tina Smilkstein with Nick Kaperilian and Neil Lamon to research the possibility of utilizing a Fujifilm Dimatix inkjet materials printer to produce an inkjet printed transistor. We ran into production issues that prevented the creation of functional transistors.
+[Read Abstract and Report...](/projects/senior_project)
 
 ## Keysight ADS (Advanced Design Suite) Low-Pass Filter Design
 
-Using ADS I designed a 1GHz low pass filter before sending it out to be milled. I then verified that the physical design met the specifications for the filter. I designed an FM receiver and transmitter pair utilizing the ADS designed microstrip low pass filter, an audio amplifier, and AH1 RF Amplifier to transmit audio across an 800MHz channel.  
+Using Keysight's ADS I designed a 1GHz microstrip low pass filter before having it CNC milled. I then verified that the physical design met the specified performance for the filter. I designed an FM receiver and transmitter pair utilizing the ADS designed microstrip low pass filter, an audio amplifier, and AH1 RF Amplifier to transmit audio across an 800MHz channel.  
 [Read More...](./assets/doc/projects/ADS_LPF.pdf)
 
 ## Remote Lux Meter
 
-Designed and breadboarded a remote lux meter that utilized a current controlled oscillator to transmit an amplitude shift keyed ultrasonic signal to receiver unit that provided a square wave output to an Arduino Uno which decoded the signal and displayed the luminosity in foot-candles and the photodiode current.  
+Designed and breadboarded a remote lux meter that utilized a current controlled oscillator to transmit an amplitude shift keyed ultrasonic signal from the sensing and transmission module to the receiver unit. The receiving module then provided a square wave output to an Arduino Uno which decoded the frequency of the signal and displayed the luminosity in foot-candles and the photodiode current on the onboard display.  
 [Read More...](./assets/doc/projects/Remote_Lux_Meter.pdf)
 
 ## Scheduled Fish Feeder
 
-As part of the CPE 329 Microcontrollers course I designed a system to allow a user to select up to three times per day to feed a fish based upon the Texas Instruments MSP432 platform. A user could view the last time that the fish was fed and manually feed the fish.  
+As part of the CPE 329 Microcontrollers device was built to allow a user to select up to three times per day to feed a fish based upon the Texas Instruments MSP432 Launchpad platform. The onboard Real Time Clock functions were utilized to allow the microcontroller to be placed into a low power state and only wake up during required feeding times, to redraw the on-screen clock, or when a user requested the configuration menu. A user could view the last time that the fish was fed and manually feed the fish from the onboard control panel. Fish food dispensing was accomplished via a servo motor.
 [Read More...](./assets/doc/projects/Fish_Feeder.pdf)
 
 ## Digital Design CPU (CPE 233 RAT CPU)
 
-Based off of the RAT architecture as designed by Brian Mealy, myself and a group of students designed a CPU which could execute assembly programs. Hardware design was completed in VHDL using Vivado Design Suite for the Basys3 development board. As the final part of the project a Connect4 game board was designed and implemented using Assembly and a custom VHDL decoding module. The source code for the project is available [here](https://github.com/joeeckstein/RAT-Connect4).
+Based off of the RAT architecture as designed by Professor Brian Mealy, myself and a group of students designed a CPU which could execute assembly programs and drive a VGA display. Hardware design was completed in VHDL using the Vivado Design Suite for the Basys3 development board. As the final part of the project a Connect4 game board was designed and implemented using Assembly and a custom VHDL graphics decoding module. The source code for the project is available [here](https://github.com/joeeckstein/RAT-Connect4).
 
 ## iFixit Technical Writing Project
 
-The iFixit Technical Writing Project's mission was to create an iFixit.com entry for the Ryobi P202\. This included both a repair guide and troubleshooting guide available at: [https://www.ifixit.com/Device/Ryobi_P202](https://www.ifixit.com/Device/Ryobi_P202). In a group of five people we divided writing, photography, and coordination of materials. In addition to the repair and troubleshooting guides, the project facilitated the creation of documents such as a project proposal, status reports, group evaluations. This project also used wiki-syntax and was extensively peer reviewed for clarity and conciseness.
+The iFixit Technical Writing Project's mission was to create an iFixit.com entry for the Ryobi P202 drill. This included both a repair guide and troubleshooting guide available at: [https://www.ifixit.com/Device/Ryobi_P202](https://www.ifixit.com/Device/Ryobi_P202). In a group of five people we divided writing, photography, and coordination of materials. In addition to the repair and troubleshooting guides, the project facilitated the creation of many other documents under the technical writing umbrella such as a project proposals, status reports, and group evaluations. This project also used wiki-syntax and was extensively peer reviewed for clarity and conciseness.
 
 ## IME 156 Power Supply Project
 
-The IME 156 Introduction to Electronics Manufacturing course consists of a lecture and a lab detailing the creation of PCBs and semiconductors The lab component of the class is largely focused on building skills the use of CAD tools such as DipTrace, soldering, crimping, and shop safety. The final project of the IME 156 lab is the creation of a dual voltage variable power supply based off of a pre-created design. While learning about the various mechanized and automatic manufacturing techniques of electronics, we learned about the skills to manually design printed circuit boards and integrate them.
+The IME 156 Introduction to Electronics Manufacturing course consists of a lecture and a lab detailing the creation of PCBs and semiconductors. The lab component of the class is largely focused on building skills such as: the use of CAD tools such as DipTrace, and fabrication techniques including PCB fabrication, soldering, crimping, and shop safety. The final project of the IME 156 lab is the creation of a dual voltage variable power supply based off of a pre-created design. While learning about the various mechanized and automatic manufacturing techniques of electronics, we learned about the skills to manually design printed circuit boards and integrate them. This class also was an introduction to designing for manufacturability.
 
 ## Creative Poetry Reading
 
