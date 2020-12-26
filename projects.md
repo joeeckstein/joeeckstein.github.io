@@ -13,6 +13,9 @@ group: "navigation"
 
 I was a member of the TAIT Integration team working on the Celebrity Apex LED Wall installation and commissioning. I focused on the anti-collision and safety function development on the Siemens S7-1500 safety PLC to protect both cast members and the machinery.
 
+![CECL Apex LED Wall Install Controls Work](/assets/img/cecl_apex_LED_install_joe.jpg)
+![CECL Apex LED Wall Install Wide Shot](/assets/img/cecl_apex_LED_install_wide.jpg)
+
 > With a perfect view from any seat, The Theater introduces all-new production shows and programming exclusive to Celebrity Apex and brought to life through state-of-the-art technology designed, engineered, and built by TAIT. A new 20-foot-tall 4K LED screen comprised of 17 million pixels curves 110 feet around the stage to immerse you like never before. A translucent, 360-degree circular scrim features eight 21K laser projectors for breathtaking wrap-around imagery and effects. And setting the stage for one of the most dynamic new productions at sea, there’s a two-ton, 18-foot-tall Tree of Life that boasts 3,300 LED leaves. It all adds up to our most technologically advanced theater yet—the perfect home for the groundbreaking new productions you’ll experience here.
 
 [Read More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
