@@ -22,14 +22,12 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
-</div>
-\
+</div>  
+  
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
-</div>
-\
-\
-
+</div>  
+  
 ## Celine Dion - Courage World Tour
 
 I was a member of the TAIT Integration team working on Celine Dion's Courage World Tour, working on the new TAIT Mod Lifts and a TAIT Nanowinch based lighting effect.
@@ -87,7 +85,8 @@ The IME 156 Introduction to Electronics Manufacturing course consists of a lectu
 
 ## Creative Poetry Reading
 
-As part of the Senior Poetry Unit I created a creative reading of a poem of my choice. This video is contains video, still images, and time lapses. The majority of the content was captured with a Canon T3i.
+As part of the Senior Poetry Unit I created a creative reading of a poem of my choice. This video is contains video, still images, and time lapses. The majority of the content was captured with a Canon T3i.  
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/B-JRbodfefw?rel=0&modestbranding=1&fs=0" class="video"></iframe>
 </div>
+  

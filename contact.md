@@ -28,7 +28,7 @@ group: "navigation"
     <textarea rows="4" name="message" required></textarea>
   </label>
   <br> <br>
-  <div class="g-recaptcha" data-sitekey="6LeyS8IZAAAAABnd7ksIs-PlxzuPmpZzjYN99BpL"></div>
+  <div class="g-recaptcha" data-sitekey="6LeyS8IZAAAAABnd7ksIs-PlxzuPmpZzjYN99BpL" data-size="compact"></div>
   <input type="hidden" name="_next" value="thanks.html" />
   <input type="hidden" name="_subject" value="jeckstei.com Contact Form Submission" />
   
