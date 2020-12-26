@@ -86,7 +86,7 @@
     <script>
       $(function(){
         $(window).resize(function(){
-            $.backstretch("{{ "/assets/img/background.webp" | relative_url}}", { fade: 750});
+            $.backstretch("{{ "/assets/img/background.webp" | relative_url}}", {push_up, fade: 1000});
         })
         .resize();//trigger resize on page load
       });
@@ -108,7 +108,7 @@
 
     {% if page.collapse %}
       <!-- Collapsable Areas Script -->
-	  <script>
+      <script>
       var coll = document.getElementsByClassName("collapsible");
       var i;
       
@@ -123,7 +123,7 @@
           }
         });
       } 
-	  </script>
+      </script>
     {% endif %}
     {% if page.captcha %}
       <script src="https://www.google.com/recaptcha/api.js" async defer></script>
