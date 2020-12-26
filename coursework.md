@@ -3,13 +3,13 @@ layout: default
 title: Coursework
 permalink: /coursework/
 redirect_from: "/courses/"
-last_modified_at: 2020-05-13
+last_modified_at: 2020-12-26
 group: "navigation"
 ---
 
 # Coursework
 
-Cal Poly GPA: 3.180 ⋅ Higher Education GPA: 3.199 ⋅ Major GPA: 3.217
+Major GPA: 3.22 ⋅ Cal Poly GPA: 3.18 ⋅ Higher Education GPA: 3.20 
 
 ## Fall Quarter 2018
 
