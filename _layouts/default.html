@@ -22,7 +22,7 @@
       <header>
         <div class="logo_box">
           {% if site.logo %}
-            <img src="{{site.logo | relative_url}}" alt="Logo" class="logo"/>
+            <img src="{{site.logo | relative_url}}" alt="Logo" class="logo" width="160" height="160"/>
           {% endif %}
           <h1><a href="{{ "/" | absolute_url }}" class="site_name">{{ site.title | default: site.github.repository_name }}</a></h1>
 
