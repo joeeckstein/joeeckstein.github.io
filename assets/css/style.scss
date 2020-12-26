@@ -4,7 +4,11 @@
 
 @import "{{ site.theme }}";
 
-
+a:hover,
+a:focus {
+ color:#069;
+ font-weight:normal;
+}
 header {
   background-color: #111;
   overflow-x: hidden;
@@ -65,11 +69,6 @@ body {
 }
 * {
   font: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-a:hover,
-a:focus {
- color:#069;
- font-weight:normal;
 }
 .wrapper {
   display: flex;
