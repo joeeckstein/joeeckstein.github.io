@@ -3,19 +3,19 @@ layout: default
 title: Projects
 permalink: /projects/
 redirect_from: "/projects"
-last_modified_at: 2020-10-22
+last_modified_at: 2020-12-26
 group: "navigation"
 ---
 
 # Projects
 
-## Celebrity Apex - Oculus Theater LED Wall
+## Celebrity Cruises -  Apex - Oculus Theater LED Wall
 
-I was a member of the TAIT Integration team working on the Celebrity Apex LED Wall.
+I was a member of the TAIT Integration team working on the Celebrity Apex LED Wall installation and commissioning. I focused on the anti-collision and safety function development on the Siemens S7-1500 safety PLC to protect both cast members and the machinery.
 
-> With a perfect view from any seat, The Theatre introduces all-new production shows and programming exclusive to Celebrity Apex and brought to life through state-of-the-art technology designed, engineered, and built by TAIT. A new 20-foot-tall 4K LED screen comprised of 17 million pixels curves 110 feet around the stage to immerse you like never before. A translucent, 360-degree circular scrim features eight 21K laser projectors for breathtaking wrap-around imagery and effects. And setting the stage for one of the most dynamic new productions at sea, there’s a two-ton, 18-foot-tall Tree of Life that boasts 3,300 LED leaves. It all adds up to our most technologically advanced theater yet—the perfect home for the groundbreaking new productions you’ll experience here.
+> With a perfect view from any seat, The Theater introduces all-new production shows and programming exclusive to Celebrity Apex and brought to life through state-of-the-art technology designed, engineered, and built by TAIT. A new 20-foot-tall 4K LED screen comprised of 17 million pixels curves 110 feet around the stage to immerse you like never before. A translucent, 360-degree circular scrim features eight 21K laser projectors for breathtaking wrap-around imagery and effects. And setting the stage for one of the most dynamic new productions at sea, there’s a two-ton, 18-foot-tall Tree of Life that boasts 3,300 LED leaves. It all adds up to our most technologically advanced theater yet—the perfect home for the groundbreaking new productions you’ll experience here.
 
-[Learn More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
+[Read More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
 
 <iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
 
@@ -24,7 +24,7 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 
 ## Celine Dion - Courage World Tour
 
-I was a member of the TAIT Integration team working on Celine Dion's Courage World Tour.
+I was a member of the TAIT Integration team working on Celine Dion's Courage World Tour, working on the new TAIT Mod Lifts and a TAIT Nanowinch based lighting effect.
 
 > After spending the last few years at her Las Vegas Residency in Caesar’s Palace, Celine Dion launched her 14th World Tour with another extraordinary set designed by an incomparable production team. For the Courage World Tour, TAIT engineered and manufactured an automated mainstage featuring a modular lift system equipped with 20 custom-built TAIT Mod Lifts.
 > TAIT Mod Lifts are modular, high capacity lifts that are easy to use and almost infinitely configurable. Each Mod Lift is a 42 in. square and can lift a payload capacity of 2,000 lbs. at 1 ft. per second. They are engineered at that capacity with a 10:1 safety factor to ensure the safety of performers and reduces the risk of failure to nearly impossible.
@@ -32,6 +32,11 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 [Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-modular-lift-system/)
 
 <iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen width="480" height="270"></iframe>  
+
+
+## Princess Cruises - Sea Princess - Princess Theater Controls Upgrade
+
+I was a member of the TAIT integration upgrading the existing automation control equipment to TAIT Navigator control and Siemens S120 series drives. This upgrade was performed during a voyage with significant coordination with the ship's entertainment staff to allow the theater to continue to operate during the upgrade.
 
 ## Window Fan Controller
 
