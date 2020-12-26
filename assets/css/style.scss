@@ -25,7 +25,8 @@ header {
 .site_name {
   color: #fff;
 }
-.site_name a:hover {
+.site_name a:hover,
+.site_name a:focus {
   color: #fff;
   font-weight:bold;
 }
