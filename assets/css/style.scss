@@ -1,11 +1,9 @@
 ---
 ---
 
-$fa-font-path:        "../webfonts";
 
 @import "{{ site.theme }}";
-@import "/assets/fontawesome/scss/fontawesome.scss";
-@import "/assets/fontawesome/scss/brands.scss";
+
 
 header {
   background-color: #111;
