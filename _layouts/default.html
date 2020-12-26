@@ -25,11 +25,13 @@
       <header>
         <div class="logo_box">
           {% if site.logo %}
+          <a href="{{ "/" | absolute_url }}">
             <picture alt="Logo" class="logo" width="160" height="160">
               <source srcset="/assets/img/logo.webp" type="image/webp">
               <source srcset="/assets/img/logo.png" type="image/png"> 
               <img src="/assets/img/logo.png" alt="Logo" class="logo" width="160" height="160"/>
             </picture>
+          </a>
           {% endif %}
           <h1><a href="{{ "/" | absolute_url }}" class="site_name">{{ site.title | default: site.github.repository_name }}</a></h1>
 
