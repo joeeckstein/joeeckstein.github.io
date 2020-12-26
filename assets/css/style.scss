@@ -34,6 +34,10 @@ header {
   display: block;
   border-bottom: none;
 }
+.sidenav a:hover {
+  color: #f1f1f1;
+  font-weight:bold;
+}
 .linkbar a {
   text-align: center;
   text-decoration: none;
@@ -66,10 +70,6 @@ a:hover,
 a:focus {
  color:#069;
  font-weight:normal;
-}
-.sidenav a:hover {
-  color: #f1f1f1;
-  font-weight:bold;
 }
 .wrapper {
   display: flex;
