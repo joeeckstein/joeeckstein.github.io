@@ -9,8 +9,8 @@ captcha: false
 
 
 
-Joe is currently a Controls Technician at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE. I have contributed to projects such as [Celine Dion's Courage World Tour](https://www.jeckstei.com/projects/#celine-dion---courage-world-tour) and the [Celebrity Apex Oculus Theater LED Wall](https://www.jeckstei.com/projects/
-#celebrity-cruises---apex---oculus-theater-led-wall). <img src="/assets/img/tait_hq.jpg" align="right" width="30%" style="border-radius: 5%;">
+<img src="/assets/img/tait_hq.jpg" align="right" width="40%" style="border-radius: 10%;"> Joe is currently a Controls Technician at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania integrating world class automation systems for the entertainment industry on a variety of platforms including TAIT's Navigator Automation Platform, Siemens Sinamics S7, and Beckhoff TwinSAFE. I have contributed to projects such as [Celine Dion's Courage World Tour](https://www.jeckstei.com/projects/#celine-dion---courage-world-tour) and the [Celebrity Apex Oculus Theater LED Wall](https://www.jeckstei.com/projects/
+#celebrity-cruises---apex---oculus-theater-led-wall).
 
 Joe graduated from [California Polytechnic State University San Luis Obispo](https://www.calpoly.edu/) with a Bachelor of Science in Electrical Engineering in December of 2018 with a 3.22 Major GPA. He has a passion for automation and entertainment technology, and worked for various groups operating and maintaining audio visual equipment for events such as club meetings, presentations, and concerts throughout his education. As part of his Bachelor of Science in Electrical Engineering, he took courses in microcontrollers, optical and wireless communication systems, remote sensing, and control systems.
 
