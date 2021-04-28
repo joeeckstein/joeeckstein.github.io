@@ -11,6 +11,8 @@ group: "navigation"
 
 Major GPA: 3.22 ⋅ Cal Poly GPA: 3.18 ⋅ Higher Education GPA: 3.20 
 
+Dean's List 1 Quarter
+
 ## Fall Quarter 2018
 
 *   IME 314 – Engineering Economics
@@ -18,7 +20,7 @@ Major GPA: 3.22 ⋅ Cal Poly GPA: 3.18 ⋅ Higher Education GPA: 3.20
 *   MU 120 – Music Appreciation
 *   PHIL 230 – Philosophical Classics: Knowledge & Reality
 
-## Spring Quarter 2018 - Dean's List
+## Spring Quarter 2018
 
 *   BIO 111 – General Biology
 *   EE 424 – Introduction to Remote Sensing
