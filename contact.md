@@ -9,6 +9,8 @@ group: "navigation"
 
 # Contact Me
 
+I am happy to disuses potential projects, opportunities, or mentorship. Please fill out the form below with your name, email, and a message.
+
 <div>
 <div>
     <form action="https://formspree.io/mjvadjkq" method="POST">
