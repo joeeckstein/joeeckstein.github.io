@@ -35,7 +35,7 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 > After spending the last few years at her Las Vegas Residency in Caesar’s Palace, Celine Dion launched her 14th World Tour with another extraordinary set designed by an incomparable production team. For the Courage World Tour, TAIT engineered and manufactured an automated mainstage featuring a modular lift system equipped with 20 custom-built TAIT Mod Lifts.
 > TAIT Mod Lifts are modular, high capacity lifts that are easy to use and almost infinitely configurable. Each Mod Lift is a 42 in. square and can lift a payload capacity of 2,000 lbs. at 1 ft. per second. They are engineered at that capacity with a 10:1 safety factor to ensure the safety of performers and reduces the risk of failure to nearly impossible.
 
-[Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-modular-lift-system/)
+[Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-custom-built-modular-lift-system-for-the-courage-world-tour/)
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
 </div>
