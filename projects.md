@@ -48,8 +48,6 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 <iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
 </div>
 
-\
-
 ## Princess Cruises - Sea Princess - Princess Theater Controls Upgrade
 
 I was a member of the TAIT integration team upgrading the existing automation control equipment to TAIT Navigator control and Siemens S120 series drives. This upgrade was performed during a voyage with significant coordination with the ship's entertainment staff to allow the theater to continue to operate during the upgrade.
