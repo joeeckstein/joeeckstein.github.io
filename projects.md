@@ -9,6 +9,14 @@ group: "navigation"
 
 # Projects
 
+## Wynn Las Vegas - Awakening
+
+I was the lead Controls Engineer for TAIT's contributons to Wynn Las Vegas's Awakening.
+
+<div class="vidcontainer">
+<iframe src="https://www.youtube.com/embed/W0W4jLxHij0?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>
+</div>
+
 ## Celebrity Cruises - Apex - Oculus Theater LED Wall
 
 I was a member of the TAIT Integration team working on the Celebrity Apex LED Wall installation and commissioning. I focused on the anti-collision and safety function development on the Siemens S7-1500 safety PLC to protect both cast members and the machinery.
