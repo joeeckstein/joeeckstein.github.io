@@ -10,7 +10,7 @@ group: "navigation"
 # Certifications
 *   American Red Cross First Aid
 *   American Red Cross CPR and AED
-*   Ham Radio License (KK6QCB)
+*   Ham Radio License
 *   Elevated Work Platform Certification
 *   American Ladder Institute - Stepladder Safety
 *   OSHA 30 Hour Construction Safety and Health

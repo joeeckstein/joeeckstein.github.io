@@ -9,7 +9,7 @@ group: "navigation"
 
 # Contact Me
 
-I am happy to disuses potential projects, opportunities, or mentorship. Please fill out the form below with your name, email, and a message.
+I am happy to disuses potential projects, opportunities, or mentorship. Please fill out the form below.
 
 <div>
 <div>
