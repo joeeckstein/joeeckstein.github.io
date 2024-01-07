@@ -43,14 +43,14 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 > After spending the last few years at her Las Vegas Residency in Caesar’s Palace, Celine Dion launched her 14th World Tour with another extraordinary set designed by an incomparable production team. For the Courage World Tour, TAIT engineered and manufactured an automated mainstage featuring a modular lift system equipped with 20 custom-built TAIT Mod Lifts.
 > TAIT Mod Lifts are modular, high capacity lifts that are easy to use and almost infinitely configurable. Each Mod Lift is a 42 in. square and can lift a payload capacity of 2,000 lbs. at 1 ft. per second. They are engineered at that capacity with a 10:1 safety factor to ensure the safety of performers and reduces the risk of failure to nearly impossible.
 
-[Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-custom-built-modular-lift-system-for-the-courage-world-tour/)
+<!-- [Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-custom-built-modular-lift-system-for-the-courage-world-tour/) -->
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
 </div>
 
-## Princess Cruises - Sea Princess - Princess Theater Controls Upgrade
+<!-- ## Princess Cruises - Sea Princess - Princess Theater Controls Upgrade
 
-I was a member of the TAIT integration team upgrading the existing automation control equipment to TAIT Navigator control and Siemens S120 series drives. This upgrade was performed during a voyage with significant coordination with the ship's entertainment staff to allow the theater to continue to operate during the upgrade.
+I was a member of the TAIT integration team upgrading the existing automation control equipment to TAIT Navigator control and Siemens S120 series drives. This upgrade was performed during a voyage with significant coordination with the ship's entertainment staff to allow the theater to continue to operate during the upgrade. -->
 
 ## Window Fan Controller
 
@@ -89,10 +89,10 @@ The iFixit Technical Writing Project's mission was to create an iFixit.com entry
 
 The IME 156 Introduction to Electronics Manufacturing course consists of a lecture and a lab detailing the creation of PCBs and semiconductors. The lab component of the class is largely focused on building skills such as: the use of CAD tools such as DipTrace, and fabrication techniques including PCB fabrication, soldering, crimping, and shop safety. The final project of the IME 156 lab is the creation of a dual voltage variable power supply based off of a pre-created design. While learning about the various mechanized and automatic manufacturing techniques of electronics, we learned about the skills to manually design printed circuit boards and integrate them. This class also was an introduction to designing for manufacturability.
 
-## Creative Poetry Reading
+<!-- ## Creative Poetry Reading
 
 As part of the Senior Poetry Unit I created a creative reading of a poem of my choice. This video is contains video, still images, and time lapses. The majority of the content was captured with a Canon T3i.  
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/B-JRbodfefw?rel=0&modestbranding=1&fs=0" class="video"></iframe>
 </div>
-  
+   -->
