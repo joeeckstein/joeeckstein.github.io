@@ -14,7 +14,6 @@ I am happy to disuses potential projects, opportunities, or mentorship. Please f
 <div>
 <div>
     <form action="https://formspree.io/mjvadjkq" method="POST">
-    <div class="h-captcha" data-sitekey="98cc3ab0-e5e4-4fae-ab98-2b00413a2030"></div>
   <br>
   <label>
     Name:
@@ -31,7 +30,7 @@ I am happy to disuses potential projects, opportunities, or mentorship. Please f
     <textarea rows="4" name="message" required></textarea>
   </label>
   <br> <br>
-  <div class="g-recaptcha" data-sitekey="6LeyS8IZAAAAABnd7ksIs-PlxzuPmpZzjYN99BpL" data-size="compact"></div>
+  <div class="h-captcha" data-sitekey="98cc3ab0-e5e4-4fae-ab98-2b00413a2030"></div>
   <input type="hidden" name="_next" value="thanks.html" />
   <input type="hidden" name="_subject" value="jeckstei.com Contact Form Submission" />
   
