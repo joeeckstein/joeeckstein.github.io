@@ -2,27 +2,27 @@
 layout: default
 redirect_from: "/Homepage/"
 redirect_from: "/Homepage"
-last_modified_at: 2024-1-7
+last_modified_at: 2025-4-9
 collapse: true
 captcha: false
 ---
 
 
 
-<img src="/assets/img/tait_hq.webp" align="right" width="40%" style="border-radius: 10%;" alt="Picture of Joe in front of the TAIT Global Headquarters sign."> I currently am Controls Engineer at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania building world class automation systems for the entertainment industry on a variety of technologies including TAIT's Navigator Automation Platform, Siemens Simatic S7, and Beckhoff TwinSAFE. I look after the control systems for our projects with a focus on Functional Safety. I contributed to projects such as [Wynn Las Vegas's Awakening](https://www.youtube.com/watch?v=W0W4jLxHij0), [Celine Dion's Courage World Tour](https://www.jeckstei.com/projects/#celine-dion---courage-world-tour), and the [Celebrity Apex Oculus Theater LED Wall](https://www.jeckstei.com/projects/#celebrity-cruises---apex---oculus-theater-led-wall).
+<img src="/assets/img/tait_hq.webp" align="right" width="40%" style="border-radius: 10%;" alt="Picture of Joe in front of the TAIT Global Headquarters sign."> I currently am Control Engineer at [TAIT](https://www.taittowers.com/) based out of the Global Headquarters in Lititz, Pennsylvania building world class automation systems for the entertainment industry on a variety of technologies including TAIT's Navigator Automation Platform, Siemens Simatic S7-1500 (TIA Portal), and Beckhoff TwinSAFE. I look after the control systems for our projects with a focus on Functional Safety. I have contributed to projects such as Universal's Mega Movie Parade, Wynn Las Vegas's Awakening, [Celine Dion's Courage World Tour](https://www.jeckstei.com/projects/#celine-dion---courage-world-tour), and the [Celebrity Apex Oculus Theater LED Wall](https://www.jeckstei.com/projects/#celebrity-cruises---apex---oculus-theater-led-wall). When not programming PLCs my programming language of choice is Python.
 
 I graduated from [California Polytechnic State University San Luis Obispo](https://www.calpoly.edu/) with a Bachelor of Science in Electrical Engineering in 2018. I have a passion for automation and entertainment technology, and have worked for various groups operating and maintaining audio visual equipment for events such as club meetings, presentations, and concerts throughout my education. As part of my Bachelor of Science in Electrical Engineering, I took courses in microcontrollers, optical and wireless communication systems, remote sensing, and control systems.
 
-During my undergraduate career at Cal Poly, I was an Audio Visual Technician II for [Associated Students, Inc.](https://www.asi.calpoly.edu/) specializing in project management, equipment maintenance, sound reinforcement, projection, and lighting for production events. Additionally, I was an Instructional Student Assistant for CPE 133 (Introduction to Digital Design) assisting students with designs in VHDL using the Vivado Design Suite for the Digilent Basys3 Artix-7 FPGA Trainer Board.
+During my undergraduate career at Cal Poly, I was an Audio Visual Technician for [Associated Students, Inc.](https://www.asi.calpoly.edu/) specializing in project management, equipment maintenance, sound reinforcement, projection, and lighting for production events. Additionally, I was an Instructional Student Assistant for CPE 133 (Introduction to Digital Design) assisting students with designs in VHDL using the Vivado Design Suite for the Digilent Basys3 Artix-7 FPGA Trainer Board.
 
 <div>
 
   <button type="button" class="collapsible">More About My Role at TAIT</button>
   
 <div class="content">
-    <p>The Controls Engineer is responsible for developing and engineering controls solutions for projects, ensuring that TAIT's solutions are engineered to the highest levels of quality and safety. The Control Engineering team focuses on upfront technical due diligence in earlier phases of the Project Process, identifying challenges early to limit discovery in later project phases, resulting in less re-work and improved Performance to Estimate (PTE) and On-Time Completion (OTC).</p>
+    <p>A Control Engineer is responsible for developing and engineering controls solutions for projects, ensuring that TAIT's solutions are engineered to the highest levels of quality and safety. The Control Engineering team focuses on upfront technical due diligence in earlier phases of the Project Process, identifying challenges early to limit discovery in later project phases, resulting in less re-work and improved Performance to Estimate (PTE) and On-Time Completion (OTC).</p>
     
-    <p>Controls Engineering involvement in a project will continue past the design & engineering phase when a project involves particularly complex or custom controls solutions, or if the nature of the project requires a high level of engineering rigor.</p>
+    <p>Control Engineering's involvement in a project will continue past the design & engineering phase when a project involves particularly complex or custom controls solutions, or if the nature of the project requires a high level of engineering rigor.</p>
     
     <p>TAIT is the World Market Leader in designing, constructing and delivering the finest live event equipment in the world. Whether it’s creating awe-inspiring spectaculars, complex touring stages, theatre engineering solutions, brand activations or cruise ship installations, TAIT pledges to deliver world-class solutions for live experiences. With its proprietary entertainment automation platform, custom-made products, and creative engineering, TAIT’s cutting-edge offerings continue to advance industry standards and exceed client expectations. As a global network of over 600 employees in 12 office locations, TAIT has worked on projects on all 7 continents and even outer space. TAIT’s diverse group of clients include Taylor Swift, Cirque Du Soleil, The Metropolitan Opera House, NASA, National Geographic, Beyoncé, and The Olympics.</p>
     
