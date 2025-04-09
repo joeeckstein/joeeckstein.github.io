@@ -14,4 +14,3 @@
 {% endfor %}
 {% assign pages_list = nil %}
 {% assign group = nil %}
-      <a href="/assets/doc/Joe_Eckstein_Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
