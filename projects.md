@@ -9,13 +9,19 @@ group: "navigation"
 
 # Projects
 
+## Universal Orlando - Mega Movie Parade
+
+I was the lead Controls Engineer for TAIT's drive and S7-1500 ProfiSAFE supervisory system for the Mega Movie Parade.
+
 ## Wynn Las Vegas - Awakening
 
 I was the lead Controls Engineer for TAIT's contributons to Wynn Las Vegas's Awakening.
 
 <div class="vidcontainer">
-<iframe src="https://www.youtube.com/embed/W0W4jLxHij0?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>
+<iframe src="https://www.youtube.com/embed/qg7lTmIAZ78?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>
 </div>
+
+A visual feast of performers, puppets, and props, Awakening at Wynn Las Vegas requires pinpoint machinery automation to enable the complex behind-the-scenes choreography and myriad audience-facing cues. TAIT had been successfully automating the iconic Le Reve show at the Wynn for the past 20 years, and with their proprietary TAIT Navigator Automation Platform providing all motion control and safety supervisory operations for its’ spectacular, Awakening Las Vegas show. [Read More on TAIT's Website](https://www.taittowers.com/work/wynn-awakening-las-vegas)
 
 ## Celebrity Cruises - Apex - Oculus Theater LED Wall
 
@@ -24,9 +30,9 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 <img src="/assets/img/cecl_apex_LED_install_joe.jpg" alt="CECL Apex LED Wall Install Controls Work" width="49%">
 <img src="/assets/img/cecl_apex_LED_install_wide.jpg" alt="CECL Apex LED Wall Install Wide Shot" width="49%">
 
-> With a perfect view from any seat, The Theater introduces all-new production shows and programming exclusive to Celebrity Apex and brought to life through state-of-the-art technology designed, engineered, and built by TAIT. A new 20-foot-tall 4K LED screen comprised of 17 million pixels curves 110 feet around the stage to immerse you like never before. A translucent, 360-degree circular scrim features eight 21K laser projectors for breathtaking wrap-around imagery and effects. And setting the stage for one of the most dynamic new productions at sea, there’s a two-ton, 18-foot-tall Tree of Life that boasts 3,300 LED leaves. It all adds up to our most technologically advanced theater yet—the perfect home for the groundbreaking new productions you’ll experience here.
+> Celebrity Cruises imagined a ship’s theater that pushed the boundaries of live entertainment, capable of awe-inspiring performances and near-limitless creative possibilities. Celebrity Cruises came to TAIT to deliver on its vision for its new EDGE-class ship, Celebrity Apex.  With a perfect view from any seat, The Theater introduces all-new production shows and programming exclusive to Celebrity Apex and brought to life through state-of-the-art technology designed, engineered, and built by TAIT. A new 20-foot-tall 4K LED screen comprised of 17 million pixels curves 110 feet around the stage to immerse you like never before. A translucent, 360-degree circular scrim features eight 21K laser projectors for breathtaking wrap-around imagery and effects..
 
-[Read More at Celebrity Cruise's Website](https://www.celebritycruises.com/things-to-do-onboard/entertainment/apex)
+[Read More at TAIT's Website](https://www.taittowers.com/work/celebrity-apex)
 
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
