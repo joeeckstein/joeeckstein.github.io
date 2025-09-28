@@ -4,7 +4,6 @@ title: Coursework
 permalink: /coursework/
 redirect_from: "/courses/"
 last_modified_at: 2020-12-26
-group: "navigation"
 ---
 
 # Coursework
