@@ -52,5 +52,5 @@ During my undergraduate career at Cal Poly, I was an Audio Visual Technician for
 </div>
 <p></p>
 
-[Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest)
+[Learner ⋅ Deliberative ⋅ Harmony ⋅ Intellection ⋅ Relator](./strengths_quest/)
 
