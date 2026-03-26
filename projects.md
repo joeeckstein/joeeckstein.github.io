@@ -18,7 +18,7 @@ I was the lead Controls Engineer for TAIT's drive and S7-1500 ProfiSAFE supervis
 I was the lead Controls Engineer for TAIT's contributons to Wynn Las Vegas's Awakening.
 
 <div class="vidcontainer">
-<iframe src="https://www.youtube.com/embed/qg7lTmIAZ78?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>
+<iframe src="https://www.youtube.com/embed/qg7lTmIAZ78?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
 A visual feast of performers, puppets, and props, Awakening at Wynn Las Vegas requires pinpoint machinery automation to enable the complex behind-the-scenes choreography and myriad audience-facing cues. TAIT had been successfully automating the iconic Le Reve show at the Wynn for the past 20 years, and with their proprietary TAIT Navigator Automation Platform providing all motion control and safety supervisory operations for its’ spectacular, Awakening Las Vegas show. [Read More on TAIT's Website](https://www.taittowers.com/work/wynn-awakening-las-vegas)
@@ -35,11 +35,11 @@ I was a member of the TAIT Integration team working on the Celebrity Apex LED Wa
 [Read More at TAIT's Website](https://www.taittowers.com/work/celebrity-apex)
 
 <div class="vidcontainer">
-<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
+<iframe src="https://www.youtube.com/embed/uPOXpqioZAY?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>  
 </div>  
   
 <div class="vidcontainer">
-<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
+<iframe src="https://www.youtube.com/embed/AaZbgxzEg7M?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>  
 </div>  
   
 ## Celine Dion - Courage World Tour
@@ -51,7 +51,7 @@ I was a member of the TAIT Integration team working on Celine Dion's Courage Wor
 
 <!-- [Read More at TAIT's Website](https://www.taittowers.com/portfolio/celine-dions-custom-built-modular-lift-system-for-the-courage-world-tour/) -->
 <div class="vidcontainer">
-<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen class="video"></iframe>  
+<iframe src="https://www.youtube.com/embed/SCesxVYtjFo?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>  
 </div>
 
 <!-- ## Princess Cruises - Sea Princess - Princess Theater Controls Upgrade
@@ -63,10 +63,10 @@ I was a member of the TAIT integration team upgrading the existing automation co
 Designed and built an Arduino based system to regulate the temperature of a room using a windows fan by comparing the indoor, outdoor, and desired temperatures.  The system would determine if it would be favorable to run the window fan, or if it would just push hot air inside. It also had built in over cycling detection to prevent small fluctuations in temperature from causing the system to rapidly turn the fan off and on.
 [Read More...](https://github.com/joeeckstein/Thermostat)  
 
-## Inkjet Printed Transistor
+<!-- ## Inkjet Printed Transistor
 
 Worked under Dr. Tina Smilkstein with Nick Kaperilian and Neil Lamon to research the possibility of utilizing a Fujifilm Dimatix inkjet materials printer to produce an inkjet printed transistor. We ran into production issues that prevented the creation of functional transistors.
-[Read Abstract and Report...](/projects/senior_project)
+[Read Abstract and Report...](/projects/senior_project) -->
 
 ## Keysight ADS (Advanced Design Suite) Low-Pass Filter Design
 
