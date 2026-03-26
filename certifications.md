@@ -14,4 +14,4 @@ group: "navigation"
 *   Elevated Work Platform Certification
 *   American Ladder Institute - Stepladder Safety
 *   OSHA 30 Hour Construction Safety and Health
-*   Functional Safety Engineer (TÜV Rheinland) # 25479/ 22 - Machinery
+*   Functional Safety Engineer - FS Eng (TÜV Rheinland) # 25479/ 22 - Machinery
