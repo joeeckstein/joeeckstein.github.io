@@ -9,19 +9,34 @@ group: "navigation"
 
 # Projects
 
-## Universal Orlando - Mega Movie Parade
+## TAIT Mobilators - Revolutionizing Scenic Motion
 
-I was the lead Controls Engineer for TAIT's drive and S7-1500 ProfiSAFE supervisory system for the Mega Movie Parade.
+> Glide scenery or performers silently, smoothly, and safely, giving you greater creative freedom and flexibility for your show. TAIT mobilators provide a way of moving scenery on stage, following any shape of path (including non-linear motion and rotation).
+
+I was part of the project team for to deliver TAIT's Mobilator system to multiple clients working with TAIT's proprietary Navigator Automation Platform to deliver an amazing show for guests. [Read Move on TAIT's Website](https://www.taittowers.com/tait-mobilators)
+
+<div class="vidcontainer">
+<iframe src=https://www.youtube.com/watch?v=Q5kAzerR6_U?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+</div>
+
+## Universal Studios Florida - Mega Movie Parade
+
+I was the lead Controls Engineer for TAIT's drive and S7-1500 ProfiSAFE supervisory system for the Mega Movie Parade. Billed as:
+> Your favorite movie characters leap off the screen and spring to life in a daytime parade. Excite all your emotions as you feel the roar of the T. rex, enjoy the adventure of E.T., embrace your true colors with Trolls and more. You’ll laugh, you’ll cheer, you’ll relive memorable movie moments the whole family can enjoy. -- Universal Orlando Resort
+
 
 ## Wynn Las Vegas - Awakening
 
-I was the lead Controls Engineer for TAIT's contributons to Wynn Las Vegas's Awakening.
+I was the lead Controls Engineer for TAIT's contributons to Wynn Las Vegas's Awakening. 
+
+TAIT had been successfully automating the iconic Le Rêve show at the Wynn for the past 20 years, and the proprietary TAIT Navigator Automation Platform now provides all motion control and safety supervisory operations for its’ spectacular, Awakening Las Vegas show.
 
 <div class="vidcontainer">
 <iframe src="https://www.youtube.com/embed/qg7lTmIAZ78?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
-A visual feast of performers, puppets, and props, Awakening at Wynn Las Vegas requires pinpoint machinery automation to enable the complex behind-the-scenes choreography and myriad audience-facing cues. TAIT had been successfully automating the iconic Le Reve show at the Wynn for the past 20 years, and with their proprietary TAIT Navigator Automation Platform providing all motion control and safety supervisory operations for its’ spectacular, Awakening Las Vegas show. [Read More on TAIT's Website](https://www.taittowers.com/work/wynn-awakening-las-vegas)
+> A visual feast of performers, puppets, and props, Awakening at Wynn Las Vegas requires pinpoint machinery automation to enable the complex behind-the-scenes choreography and myriad audience-facing cues.
+[Read More on TAIT's Website](https://www.taittowers.com/work/wynn-awakening-las-vegas)
 
 ## Celebrity Cruises - Apex - Oculus Theater LED Wall
 
