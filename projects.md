@@ -16,7 +16,7 @@ group: "navigation"
 I was part of the project team for to deliver TAIT's Mobilator system to multiple clients working with TAIT's proprietary Navigator Automation Platform to deliver an amazing show for guests. [Read Move on TAIT's Website](https://www.taittowers.com/tait-mobilators)
 
 <div class="vidcontainer">
-<iframe src=https://www.youtube.com/watch?v=Q5kAzerR6_U?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe src="https://www.youtube.com/watch?v=Q5kAzerR6_U?rel=0&modestbranding=1&fs=1" allowfullscreen class="video" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
 
 ## Universal Studios Florida - Mega Movie Parade
